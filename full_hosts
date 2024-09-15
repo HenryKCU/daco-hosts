@@ -1,16 +1,16 @@
 8.138.154.174 master.daco master.daco.com
 8.138.129.25 slave.daco slave.daco.com
-8.138.128.40 master.me
+8.138.128.40 master.me master.me.com
 10.1.1.2 openwrt.home openwrt.home.com openwrt.lxy openwrt.lxy.daco.com
-10.1.1.3 nas.daco nas.daco.com
+10.1.1.3 nas.daco nas.daco.com file.daco file.daco.com
 10.1.1.5 pgy.daco pgy.daco.com
 10.1.1.6 eq12.daco eq12.daco.com
 10.1.1.7 ubuntu.daco ubuntu.daco.com
-10.1.3.1 openwrt.daco openwrt.office openwrt.daco.com openwrt.office.daco.com
+10.1.3.1 openwrt.daco openwrt.daco.com openwrt.office openwrt.office.com
 10.1.3.8 ser8.daco ser8.daco.com
-10.1.3.9 erp.daco erp.daco.com
-10.1.5.2 openwrt.sxy openwrt.sxy.daco.com
-10.1.6.2 openwrt.xjd openwrt.xjd.daco.com
+10.1.3.9 erp.daco erp.daco.com www.daco www.daco.com
+10.1.5.2 openwrt.sxy openwrt.sxy.com
+10.1.6.2 openwrt.xjd openwrt.xjd.com
 
 10.2.0.1 master.daco.zt
 10.2.0.2 slave.daco.zt
