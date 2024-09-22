@@ -1,5 +1,6 @@
 8.138.154.174 master.daco master.daco.com
 8.138.129.25 slave.daco slave.daco.com
+8.138.86.24 bridge.daco bridge.daco.com
 8.138.128.40 master.me
 10.1.1.2 openwrt.home openwrt.home.com openwrt.lxy openwrt.lxy.com
 10.1.1.3 nas.daco nas.daco.com file.daco file.daco.com file.daco.com
