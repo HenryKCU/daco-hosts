@@ -1,5 +1,5 @@
 8.138.154.174 controller.daco controller.daco.com
-8.138.86.24 relay.daco relay.daco.com
+8.138.86.24 relay.daco relay.daco.com relay.gz.cn.daco relay.gz.cn.daco.com
 8.138.129.25 coordinator.daco coordinator.daco.com
 8.138.128.40 server.me
 10.1.1.2 connector.daco connector.daco.com
@@ -16,7 +16,7 @@
 10.1.6.2 connector.xjd connector.xjd.daco connector.xjd.daco.com
 
 10.2.0.1 controller.zt
-10.2.0.2 relay.zt
+10.2.0.2 relay.gz.cn.zt relay.zt
 10.2.0.3 coordinator.zt
 10.2.0.8 server.me.zt
 10.2.1.2 connector.zt
@@ -28,7 +28,7 @@
 10.2.6.2 connector.xjd.zt
 
 10.3.0.1 controller.zto
-10.3.0.2 relay.zto
+10.3.0.2 relay.gz.cn.zto relay.zto
 10.3.0.3 coordinator.zto
 10.3.0.8 server.me.zto
 10.3.1.2 connector.zto
@@ -40,7 +40,7 @@
 10.3.6.2 connector.xjd.zto
 
 100.64.0.1 controller.ts
-100.64.0.2 relay.ts
+100.64.0.2 relay.gz.cn.ts relay.ts
 100.64.0.3 coordinator.ts
 100.64.0.8 server.me.ts
 100.64.1.2 connector.ts
