@@ -1,6 +1,6 @@
-8.138.154.174 controller.daco pub.daco.com relay-5m.gz.daco
+8.138.154.174 controller.daco pub.daco.com relay-5m.gz.daco discover-syncthing.daco
 8.138.86.24 relay.daco relay-100m.gz.daco
-8.138.129.25 relay-10m.gz.daco
+8.138.129.25 relay-10m.gz.daco relay-syncthing.daco
 8.138.128.40 ubuntu.me relay-3m.gz.me relay-verysync.daco
 10.1.1.2 connector.daco connector.daco.com
 10.1.1.3 nas.daco cloud.daco cloud.daco.com
