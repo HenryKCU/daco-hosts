@@ -2,7 +2,5 @@
 hosts file for daco network
 
 connector_hosts: for vpn connector node<br/>
-office_hosts: for pc device which run in office<br/>
-mobile_hosts: for pc and mobile device runs in outside<br/>
-~~full_hosts: deprecated~~<br/>
-~~pc_hosts: deprecated~~<br/>
+senior_hosts: for senior staff's pc device<br/>
+junior_hosts: for junior staff's pc device<br/>
