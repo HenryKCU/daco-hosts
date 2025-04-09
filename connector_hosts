@@ -49,8 +49,8 @@
 10.1.5.2 connector.sxy.net
 10.1.6.2 connector.xjd.net
 
-10.2.0.1 controller.zt relay-5m.gz.zt
-10.2.0.2 relay.zt relay-100m.gz.zt
+10.2.0.1 controller.zt
+10.2.0.2 relay.zt
 10.2.1.2 connector.zt
 10.2.1.3 cloud.zt
 10.2.1.7 ubuntu.zt erp.zt
