@@ -1,3 +1,8 @@
+# on network default set 10.1.1.2 connector.local
+# on network 10.1.1.0 set 10.1.1.2 connector.local
+# on network 10.1.3.0 set 10.1.3.1 connector.local
+# on network 10.1.5.0 set 10.1.5.2 connector.local
+# on network 10.1.6.0 set 10.1.6.2 connector.local
 # on network default set 10.1.1.2 hosts.daco
 # on network 10.1.1.0 set 10.1.1.2 hosts.daco
 # on network 10.1.3.0 set 10.1.3.1 hosts.daco
