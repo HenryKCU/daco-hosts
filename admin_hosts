@@ -14,7 +14,7 @@
 # on network 10.1.5.0 set 10.1.1.13 backup.proxy.daco
 # on network 10.1.6.0 set 10.1.1.13 backup.proxy.daco
 
-8.138.154.174 controller.daco pub.daco.com relay-5m.gz.daco discover-syncthing.daco relay-syncthing.daco
+8.138.154.174 controller.daco relay-5m.gz.daco discover-syncthing.daco relay-syncthing.daco
 8.138.86.24 relay.daco relay-100m.gz.daco
 8.138.128.40 ubuntu.me
 10.1.1.2 connector.daco connector.daco.com
@@ -24,7 +24,6 @@
 10.1.1.7 ubuntu.daco ubuntu.daco.com erp.daco erp.daco.com www.daco.com
 10.1.1.11 win.daco
 10.1.1.13 mac.daco
-10.1.1.16 vm.daco
 10.1.3.1 connector.office.daco connector.office.daco.com
 10.1.3.8 win.office.daco
 10.1.3.9 cloud.office.daco cloud.office.daco.com
@@ -32,12 +31,30 @@
 10.1.5.2 connector.sxy.daco connector.sxy.daco.com
 10.1.6.2 connector.xjd.daco connector.xjd.daco.com
 
-10.2.0.1 controller.zt pub.zt relay-5m.gz.zt
+8.138.154.174 controller.net
+8.138.86.24 relay.net
+8.138.128.40 ubuntu.me.net
+10.1.1.2 connector.net
+10.1.1.3 cloud.net
+10.1.1.5 connector.pgy.net
+10.1.1.6 eq12.net
+10.1.1.7 ubuntu.net
+10.1.1.11 win.net
+10.1.1.13 mac.net
+10.1.3.1 connector.office.net
+10.1.3.8 win.office.net
+10.1.3.9 cloud.office.net
+10.1.3.15 mac.office.net
+10.1.5.2 connector.sxy.net
+10.1.6.2 connector.xjd.net
+
+10.2.0.1 controller.zt relay-5m.gz.zt
 10.2.0.2 relay.zt relay-100m.gz.zt
 10.2.1.2 connector.zt
 10.2.1.3 cloud.zt
 10.2.1.7 ubuntu.zt erp.zt
-10.2.1.16 vm.daco.zt
+10.2.1.11 win.zt
+10.2.1.13 mac.zt
 10.2.3.1 connector.office.zt
 10.2.3.8 win.office.zt
 10.2.3.9 cloud.office.zt
@@ -45,12 +62,13 @@
 10.2.5.2 connector.sxy.zt
 10.2.6.2 connector.xjd.zt
 
-10.3.0.1 controller.zto pub.zto relay-5m.gz.zto
+10.3.0.1 controller.zto relay-5m.gz.zto
 10.3.0.2 relay.zto relay-100m.gz.zto
 10.3.1.2 connector.zto
 10.3.1.3 cloud.zto
 10.3.1.7 ubuntu.zto erp.zto
-10.3.1.16 vm.daco.zto
+10.3.1.11 win.zto
+10.3.1.13 mac.zto
 10.3.3.1 connector.office.zto
 10.3.3.8 win.office.zto
 10.3.3.9 cloud.office.zto
@@ -58,11 +76,13 @@
 10.3.5.2 connector.sxy.zto
 10.3.6.2 connector.xjd.zto
 
-100.64.0.1 controller.ts pub.ts relay-5m.gz.ts
+100.64.0.1 controller.ts relay-5m.gz.ts
 100.64.0.2 relay.ts relay-100m.gz.ts
 100.64.1.2 connector.ts
 100.64.1.3 cloud.ts
 100.64.1.7 ubuntu.ts erp.ts
+100.64.1.11 win.ts
+100.64.1.13 mac.ts
 100.64.3.1 connector.office.ts
 100.64.3.8 win.office.ts
 100.64.3.9 cloud.office.ts
