@@ -11,19 +11,16 @@
 # on network 10.1.5.0 set 10.1.1.13 backup.proxy.daco
 # on network 10.1.6.0 set 10.1.1.13 backup.proxy.daco
 
-8.138.154.174 controller.daco discover-syncthing.daco relay-syncthing.daco
-8.138.86.24 relay.daco
-10.1.1.2 connector.daco connector.daco.com
-10.1.1.3 cloud.daco cloud.daco.com
-10.1.1.6 eq12.daco eq12.daco.com
-10.1.1.7 ubuntu.daco ubuntu.daco.com erp.daco erp.daco.com www.daco.com
-10.1.1.11 win.daco
-10.1.1.13 mac.daco
-10.1.3.1 connector.office.daco connector.office.daco.com
-10.1.1.8 win.office.daco
-10.1.1.9 cloud.office.daco cloud.office.daco.com
-10.1.5.2 connector.sxy.daco connector.sxy.daco.com
-10.1.6.2 connector.xjd.daco connector.xjd.daco.com
+8.138.154.174 discover.syncthing.daco
+8.138.154.174 relay.syncthing.daco
+10.1.1.2 connector.daco.com
+10.1.1.3 cloud.daco.com
+10.1.1.6 eq12.daco.com
+10.1.1.7 erp.daco.com www.daco.com
+10.1.1.9 cloud2.daco.com
+10.1.5.2 connector.mobile.com
+10.1.5.2 connector.amanda.com
+10.1.6.2 connector.xjd.com
 
 8.138.154.174 controller.net
 8.138.86.24 relay.net
@@ -31,49 +28,49 @@
 10.1.1.3 cloud.net
 10.1.1.6 eq12.net
 10.1.1.7 ubuntu.net
-10.1.1.11 win.net
-10.1.1.13 mac.net
-10.1.3.1 connector.office.net
-10.1.3.8 win.office.net
-10.1.3.9 cloud.office.net
-10.1.5.2 connector.sxy.net
+10.1.1.8 win2.dev.net
+10.1.1.9 cloud2.net
+10.1.1.11 win.dev.net
+10.1.1.13 mac.dev.net
+10.1.5.2 connector.mobile.net
+10.1.5.2 connector.amanda.net
 10.1.6.2 connector.xjd.net
 
 10.2.0.1 controller.zt
 10.2.0.2 relay.zt
 10.2.1.2 connector.zt
 10.2.1.3 cloud.zt
-10.2.1.7 ubuntu.zt erp.zt
-10.2.1.11 win.zt
-10.2.1.13 mac.zt
-10.2.3.1 connector.office.zt
-10.2.3.8 win.office.zt
-10.2.3.9 cloud.office.zt
-10.2.5.2 connector.sxy.zt
+10.2.1.7 ubuntu.zt
+10.2.1.8 win2.dev.zt
+10.2.1.9 cloud2.zt
+10.2.1.11 win.dev.zt
+10.2.1.13 mac.dev.zt
+10.2.3.1 connector.mobile.zt
+10.2.5.2 connector.amanda.zt
 10.2.6.2 connector.xjd.zt
 
 10.3.0.1 controller.zto
 10.3.0.2 relay.zto
 10.3.1.2 connector.zto
 10.3.1.3 cloud.zto
-10.3.1.7 ubuntu.zto erp.zto
-10.3.1.11 win.zto
-10.3.1.13 mac.zto
-10.3.3.1 connector.office.zto
-10.3.3.8 win.office.zto
-10.3.3.9 cloud.office.zto
-10.3.5.2 connector.sxy.zto
+10.3.1.7 ubuntu.zto
+10.3.1.8 win2.dev.zto
+10.3.1.9 cloud2.zto
+10.3.1.11 win.dev.zto
+10.3.1.13 mac.dev.zto
+10.3.3.1 connector.mobile.zto
+10.3.5.2 connector.amanda.zto
 10.3.6.2 connector.xjd.zto
 
 100.64.0.1 controller.ts
 100.64.0.2 relay.ts
 100.64.1.2 connector.ts
 100.64.1.3 cloud.ts
-100.64.1.7 ubuntu.ts erp.ts
-100.64.1.11 win.ts
-100.64.1.13 mac.ts
-100.64.3.1 connector.office.ts
-100.64.3.8 win.office.ts
-100.64.3.9 cloud.office.ts
-100.64.5.2 connector.sxy.ts
+100.64.1.7 ubuntu.ts
+100.64.1.8 win2.dev.ts
+100.64.1.9 cloud2.ts
+100.64.1.11 win.dev.ts
+100.64.1.13 mac.dev.ts
+100.64.3.1 connector.mobile.ts
+100.64.5.2 connector.amanda.ts
 100.64.6.2 connector.xjd.ts
