@@ -1,13 +1,16 @@
 # on network default set 10.1.1.2 hosts.daco
 # on network 10.1.1.0 set 10.1.1.2 hosts.daco
+# on network 10.1.3.0 set 10.1.3.2 hosts.daco
 # on network 10.1.5.0 set 10.1.5.2 hosts.daco
 # on network 10.1.6.0 set 10.1.6.2 hosts.daco
 # on network default set 10.1.1.2 proxy.daco
 # on network 10.1.1.0 set 10.1.1.2 proxy.daco
+# on network 10.1.3.0 set 10.1.3.2 proxy.daco
 # on network 10.1.5.0 set 10.1.5.2 proxy.daco
 # on network 10.1.6.0 set 10.1.6.2 proxy.daco
 # on network default set 10.1.1.13 backup.proxy.daco
 # on network 10.1.1.0 set 10.1.1.13 backup.proxy.daco
+# on network 10.1.3.0 set 10.1.1.13 backup.proxy.daco
 # on network 10.1.5.0 set 10.1.1.13 backup.proxy.daco
 # on network 10.1.6.0 set 10.1.1.13 backup.proxy.daco
 
@@ -18,7 +21,7 @@
 10.1.1.6 eq12.daco.com
 10.1.1.7 erp.daco.com www.daco.com
 10.1.1.9 cloud2.daco.com
-10.1.5.2 connector.mobile.com
+10.1.3.2 connector.mobile.com
 10.1.5.2 connector.amanda.com
 10.1.6.2 connector.xjd.com
 
@@ -32,7 +35,7 @@
 10.1.1.9 cloud2.net
 10.1.1.11 win.dev.net
 10.1.1.13 mac.dev.net
-10.1.5.2 connector.mobile.net
+10.1.3.2 connector.mobile.net
 10.1.5.2 connector.amanda.net
 10.1.6.2 connector.xjd.net
 
@@ -45,7 +48,7 @@
 10.2.1.9 cloud2.zt
 10.2.1.11 win.dev.zt
 10.2.1.13 mac.dev.zt
-10.2.3.1 connector.mobile.zt
+10.2.3.2 connector.mobile.zt
 10.2.5.2 connector.amanda.zt
 10.2.6.2 connector.xjd.zt
 
@@ -58,7 +61,7 @@
 10.3.1.9 cloud2.zto
 10.3.1.11 win.dev.zto
 10.3.1.13 mac.dev.zto
-10.3.3.1 connector.mobile.zto
+10.3.3.2 connector.mobile.zto
 10.3.5.2 connector.amanda.zto
 10.3.6.2 connector.xjd.zto
 
@@ -71,6 +74,6 @@
 100.64.1.9 cloud2.ts
 100.64.1.11 win.dev.ts
 100.64.1.13 mac.dev.ts
-100.64.3.1 connector.mobile.ts
+100.64.3.2 connector.mobile.ts
 100.64.5.2 connector.amanda.ts
 100.64.6.2 connector.xjd.ts
